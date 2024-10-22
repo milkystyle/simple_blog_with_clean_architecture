@@ -23,7 +23,6 @@ class AuthRemoteDataSourceImpl implements AuthRemoteDataSource {
     required String email,
     required String password,
   }) async {
-    // TODO: implement signInWithEmailPassword
     throw UnimplementedError();
   }
 
